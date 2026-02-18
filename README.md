@@ -33,13 +33,13 @@ All records are stored in a binary file named `hostel.txt`.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-Hostel-Management-System/
-│
-├── hostel_management.c
-├── hostel.txt (auto-generated after adding records)
-└── README.md
+Hostel-Management-System  
+│  
+├── hostel_management.c  
+├── hostel.txt *(auto-generated after adding records)*  
+└── README.md  
 
 ---
 
